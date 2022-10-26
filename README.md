@@ -1,1 +1,1 @@
-# Attendance-Tracker-IDP-PROJECT-
+# Attendance Tracker (IDP PROJECT)
